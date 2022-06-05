@@ -1,2 +1,2 @@
-# personal-studies-DIO
-Apanhado dos projetos (códigos e anotações importantes) criados durante o Santander Bootcamp 2022
+# Estudos Pessoais - DIO
+*Apanhado dos projetos (códigos e anotações importantes) criados durante o Santander Bootcamp 2022*
