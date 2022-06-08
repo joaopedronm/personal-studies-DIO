@@ -1,1 +1,15 @@
 Módulo II - HTML / CSS / JS
+
+Site para otimizar imagens: TinyPNG
+
+<ul> lista desordenada
+<ol> lista numerada
+<li> item da lista
+
+Class: precedida por um .
+ID: precedida por um #
+ID só pode ser usado uma vez na página
+
+Box model: margin-border-padding-content
+
+CSS: Vc cria regras de estilo para elementos ou grupo de elementos
